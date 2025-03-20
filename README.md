@@ -102,3 +102,9 @@ export async function GET(request: NextRequest) {
 ## 📈 Architecture Highlights
 
 ### Data Flow
+<div align="center">
+  <!-- Product Features Grid -->
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
+    <img src="./mobile-view.png" alt="Mobile Responsive View" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
