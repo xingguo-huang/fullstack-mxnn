@@ -19,7 +19,6 @@ A modern, full-stack e-commerce application built with Next.js 14, MongoDB, and 
     <img src="./product-list.png" alt="Product List View" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <img src="./product-detail.png" alt="Product Detail View" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <img src="./shopping-cart.png" alt="Shopping Cart" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="./mobile-view.png" alt="Mobile Responsive View" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
   </div>
 </div>
 
