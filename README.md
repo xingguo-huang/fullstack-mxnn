@@ -2,7 +2,45 @@
 
 A modern, full-stack e-commerce application built with Next.js 14, MongoDB, and TypeScript. This project demonstrates best practices in web development, state management, and API integration.
 
-![Project Screenshot](screenshot.png)
+# MERN Stack E-commerce Platform
+
+<div align="center">
+  <h2>📱 Application Screenshots</h2>
+</div>
+
+<div align="center">
+  <!-- Main Homepage -->
+  <img src="./screenshot.png" alt="E-commerce Homepage" width="100%" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
+
+<div align="center">
+  <!-- Product Features Grid -->
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
+    <img src="./product-list.png" alt="Product List View" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="./product-detail.png" alt="Product Detail View" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="./shopping-cart.png" alt="Shopping Cart" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="./mobile-view.png" alt="Mobile Responsive View" width="100%" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
+
+<div align="center">
+  <details>
+    <summary><strong>View More Screenshots</strong></summary>
+    <br>
+    <!-- Additional Features -->
+    <img src="./api-endpoints.png" alt="API Endpoints" width="100%" style="border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="./mongodb-integration.png" alt="MongoDB Integration" width="100%" style="border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  </details>
+</div>
+
+## 🚀 Key Features Demonstrated in Screenshots
+- **Homepage**: Modern UI with featured products and hero section
+- **Product List**: Responsive grid layout with product cards
+- **Product Detail**: Detailed view with product information
+- **Shopping Cart**: Interactive cart management
+- **Mobile View**: Responsive design for mobile devices
+- **API Integration**: RESTful API endpoints
+- **Database**: MongoDB data structure and relationships
 
 ## 🚀 Technical Stack
 
